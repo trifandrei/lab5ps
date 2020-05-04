@@ -16,7 +16,7 @@ public class Db_conection {
 		 String driver = "com.mysql.cj.jdbc.Driver";  
 		 String url = "jdbc:mysql://localhost/bug_db";
 		 String user = "root";
-		 String pass = "omegaacer1";
+		 String pass = "----";
 		
 		Class.forName(driver);
 		
